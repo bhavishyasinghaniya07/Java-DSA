@@ -1,0 +1,438 @@
+3rd Semester Registration Info - HTTP 200
+Raw response:
+[{"reg_session":2023,"reg_semester_type_id_code":2,"current_status":"Confirmed","sgpa_cgpa_in_json":[{"program_master_id":28,"cgpa":"8.23","calculation_date":"Feb 5, 2024 10:08:45 AM"}],"creation_time":"2023-12-21T17:28:45.788Z","semester_term_no_id_code":4,"feesStatus":"Yes","feesAmount":"","credits":"26","semesterDetails1":"Semester 1","full_name":"Bhavishya Parmar","gender":"M","roll_no":"2320403127","curr_dept":32,"degree":"-","degree_name":"Master of Computer Applications","program_master_id":28,"depname":"Mathematics, Bioinformatics and Computer Applications","subjects":[{"subject_master_id":1590,"comp_name_sl_no":1,"subject_code":"MTH 101 CA","subname":"Discrete Mathematics","comp_name":"C1","code_desc":"Semester 1","empname":"Dr. Manoj Jha","sectionIdCode":29},{"subject_master_id":1441,"comp_name_sl_no":2,"subject_code":"CA 102","subname":"Computer Architecture & System Software","comp_name":"C2","code_desc":"Semester 1","empname":"Madhu Singh","sectionIdCode":29},{"subject_master_id":1442,"comp_name_sl_no":3,"subject_code":"CA 103","subname":"Data Structures","comp_name":"C3","code_desc":"Semester 1","empname":"Dr.sujoy Das","sectionIdCode":29},{"subject_master_id":1443,"comp_name_sl_no":4,"subject_code":"CA 104","subname":"Operating System","comp_name":"C4","code_desc":"Semester 1","empname":"Madhu Singh","sectionIdCode":29},{"subject_master_id":1444,"comp_name_sl_no":5,"subject_code":"CA 105","subname":"C Programming","comp_name":"C5","code_desc":"Semester 1","empname":"Geetanjali Nenvani","sectionIdCode":29},{"subject_master_id":190,"comp_name_sl_no":6,"subject_code":"HUM 106 CA","subname":"Business Communication","comp_name":"C6","code_desc":"Semester 1","empname":"Anjuli Jain","sectionIdCode":29},{"subject_master_id":1445,"comp_name_sl_no":7,"subject_code":"CA 107","subname":"Web Development Lab- I","comp_name":"C7","code_desc":"Semester 1","empname":"Dr Sagar Choudhary ","sectionIdCode":29},{"subject_master_id":1446,"comp_name_sl_no":8,"subject_code":"CA 108","subname":"Programming Lab in C","comp_name":"C8","code_desc":"Semester 1","empname":"Geetanjali Nenvani","sectionIdCode":29}]},{"reg_session":2023,"reg_semester_type_id_code":3,"current_status":"Confirmed","sgpa_cgpa_in_json":[{"program_master_id":28,"cgpa":"8.00","calculation_date":"May 30, 2024 10:46:42 AM"}],"creation_time":"2024-02-15T12:19:45.276Z","semester_term_no_id_code":5,"feesStatus":"Yes","feesAmount":"","credits":"26","semesterDetails1":"Semester 2","full_name":"Bhavishya Parmar","gender":"M","roll_no":"2320403127","curr_dept":32,"degree":"-","degree_name":"Master of Computer Applications","program_master_id":28,"depname":"Mathematics, Bioinformatics and Computer Applications","subjects":[{"subject_master_id":1591,"comp_name_sl_no":1,"subject_code":"MTH 201 CA","subname":"Linear Algebra","comp_name":"C1","code_desc":"Semester 2","empname":"Dr. Pushpendra Kumar","sectionIdCode":29},{"subject_master_id":1448,"comp_name_sl_no":2,"subject_code":"CA 202","subname":"Software Engineering","comp_name":"C2","code_desc":"Semester 2","empname":"Dr. Shweta Bhandari","sectionIdCode":29},{"subject_master_id":1449,"comp_name_sl_no":3,"subject_code":"CA 203","subname":"Computer Networks","comp_name":"C3","code_desc":"Semester 2","empname":"Dr. Jay Kumar Jain","sectionIdCode":29},{"subject_master_id":1450,"comp_name_sl_no":4,"subject_code":"CA 204","subname":"Database Management System","comp_name":"C4","code_desc":"Semester 2","empname":"Dr. Sanjay Sharma","sectionIdCode":29},{"subject_master_id":1451,"comp_name_sl_no":5,"subject_code":"CA 205","subname":"Object Oriented Design Using UML","comp_name":"C5","code_desc":"Semester 2","empname":"Dr.sujoy Das","sectionIdCode":29},{"subject_master_id":1452,"comp_name_sl_no":6,"subject_code":"CA 206","subname":"Python Programming","comp_name":"C6","code_desc":"Semester 2","empname":"Dheeraj Kumar Dixit","sectionIdCode":29},{"subject_master_id":1453,"comp_name_sl_no":7,"subject_code":"CA 207","subname":"Web Development Lab- II","comp_name":"C7","code_desc":"Semester 2","empname":"Dr. Jay Kumar Jain","sectionIdCode":29},{"subject_master_id":1454,"comp_name_sl_no":8,"subject_code":"CA 208","subname":"Programming Lab in Python","comp_name":"C8","code_desc":"Semester 2","empname":"Dheeraj Kumar Dixit","sectionIdCode":29}]},{"reg_session":2024,"reg_semester_type_id_code":2,"current_status":"Confirmed","sgpa_cgpa_in_json":[{"program_master_id":28,"cgpa":"8.73","calculation_date":"Feb 13, 2025 10:29:12 AM"}],"creation_time":"2024-12-13T12:13:52.874Z","semester_term_no_id_code":6,"feesStatus":"Yes","feesAmount":"","credits":"26","semesterDetails1":"Semester 3","full_name":"Bhavishya Parmar","gender":"M","roll_no":"2320403127","curr_dept":32,"degree":"-","degree_name":"Master of Computer Applications","program_master_id":28,"depname":"Mathematics, Bioinformatics and Computer Applications","subjects":[{"subject_master_id":1456,"comp_name_sl_no":2,"subject_code":"CA 302","subname":"Software Architecture","comp_name":"C2","code_desc":"Semester 3","empname":"Dr. Namita Srivastava","sectionIdCode":61},{"subject_master_id":1462,"comp_name_sl_no":8,"subject_code":"CA 308","subname":"Minor Project - I","comp_name":"C8","code_desc":"Semester 3","empname":"Dr. Jitendra Kumar","sectionIdCode":61},{"subject_master_id":1461,"comp_name_sl_no":7,"subject_code":"CA 307","subname":"Programming Lab in JAVA","comp_name":"C7","code_desc":"Semester 3","empname":"Dr. Ghanshyam Singh Thakur","sectionIdCode":61},{"subject_master_id":1592,"comp_name_sl_no":1,"subject_code":"MTH 301 CA","subname":"Probability & Applied Statistics","comp_name":"C1","code_desc":"Semester 3","empname":"Dr. Chandan Kumar Verma","sectionIdCode":61},{"subject_master_id":1457,"comp_name_sl_no":3,"subject_code":"CA 303","subname":"Analysis & Design of Algorithm","comp_name":"C3","code_desc":"Semester 3","empname":"Dr. Amit Bhagat","sectionIdCode":61},{"subject_master_id":1459,"comp_name_sl_no":5,"subject_code":"CA 305","subname":"Enterprise Resource Planning and Supply Chain Management","comp_name":"C5","code_desc":"Semester 3","empname":"Dr. Jay Kumar Jain","sectionIdCode":61},{"subject_master_id":1460,"comp_name_sl_no":6,"subject_code":"CA 306","subname":"Development and Operational Tools (Devops)","comp_name":"C6","code_desc":"Semester 3","empname":"Dr.sujoy Das","sectionIdCode":61},{"subject_master_id":1458,"comp_name_sl_no":4,"subject_code":"CA 304","subname":"Application Development using JAVA","comp_name":"C4","code_desc":"Semester 3","empname":"Dr. Ghanshyam Singh Thakur","sectionIdCode":61}]},{"reg_session":2024,"reg_semester_type_id_code":3,"current_status":"Confirmed","sgpa_cgpa_in_json":[{"program_master_id":28,"cgpa":"9.31","calculation_date":"Jun 10, 2025 5:21:22 PM"}],"creation_time":"2025-04-25T13:42:04.341Z","semester_term_no_id_code":7,"feesStatus":"Yes","feesAmount":"","credits":"26","semesterDetails1":"Semester 4","full_name":"Bhavishya Parmar","gender":"M","roll_no":"2320403127","curr_dept":32,"degree":"-","degree_name":"Master of Computer Applications","program_master_id":28,"depname":"Mathematics, Bioinformatics and Computer Applications","subjects":[{"subject_master_id":1593,"comp_name_sl_no":1,"subject_code":"MTH 401 CA","subname":"Optimization Methods for Analytics","comp_name":"C1","code_desc":"Semester 4","empname":"Dr. Chandan Kumar Verma","sectionIdCode":100},{"subject_master_id":1464,"comp_name_sl_no":2,"subject_code":"CA 402","subname":"Data Warehousing and Data Mining","comp_name":"C2","code_desc":"Semester 4","empname":"Dr. Ghanshyam Singh Thakur","sectionIdCode":100},{"subject_master_id":1465,"comp_name_sl_no":3,"subject_code":"CA 403","subname":"Artificial Intelligence & Neural Network","comp_name":"C3","code_desc":"Semester 4","empname":"Dr. Jitendra Kumar","sectionIdCode":100},{"subject_master_id":1466,"comp_name_sl_no":4,"subject_code":"CA 404","subname":"Service Management","comp_name":"C4","code_desc":"Semester 4","empname":"Dr. Bikrant Kesari","sectionIdCode":100},{"subject_master_id":1467,"comp_name_sl_no":5,"subject_code":"CA 405","subname":"Data Science","comp_name":"C5","code_desc":"Semester 4","empname":"Dr Sagar Choudhary ","sectionIdCode":100},{"subject_master_id":1468,"comp_name_sl_no":6,"subject_code":"CA 406","subname":"Minor Project - II","comp_name":"C6","code_desc":"Semester 4","empname":"Dr. Ghanshyam Singh Thakur","sectionIdCode":100},{"subject_master_id":1474,"comp_name_sl_no":8,"subject_code":"CA 706","subname":"Internet of Things Lab","comp_name":"Elective Lab- I","code_desc":"Semester 4","empname":"Dr. S. Devidas","sectionIdCode":100},{"subject_master_id":1469,"comp_name_sl_no":7,"subject_code":"CA 701","subname":"Internet of Things","comp_name":"Elective I","code_desc":"Semester 4","empname":"Dr. S. Devidas","sectionIdCode":100}]}]
+Parsed JSON:
+[
+  {
+    "reg_session": 2023,
+    "reg_semester_type_id_code": 2,
+    "current_status": "Confirmed",
+    "sgpa_cgpa_in_json": [
+      {
+        "program_master_id": 28,
+        "cgpa": "8.23",
+        "calculation_date": "Feb 5, 2024 10:08:45 AM"
+      }
+    ],
+    "creation_time": "2023-12-21T17:28:45.788Z",
+    "semester_term_no_id_code": 4,
+    "feesStatus": "Yes",
+    "feesAmount": "",
+    "credits": "26",
+    "semesterDetails1": "Semester 1",
+    "full_name": "Bhavishya Parmar",
+    "gender": "M",
+    "roll_no": "2320403127",
+    "curr_dept": 32,
+    "degree": "-",
+    "degree_name": "Master of Computer Applications",
+    "program_master_id": 28,
+    "depname": "Mathematics, Bioinformatics and Computer Applications",
+    "subjects": [
+      {
+        "subject_master_id": 1590,
+        "comp_name_sl_no": 1,
+        "subject_code": "MTH 101 CA",
+        "subname": "Discrete Mathematics",
+        "comp_name": "C1",
+        "code_desc": "Semester 1",
+        "empname": "Dr. Manoj Jha",
+        "sectionIdCode": 29
+      },
+      {
+        "subject_master_id": 1441,
+        "comp_name_sl_no": 2,
+        "subject_code": "CA 102",
+        "subname": "Computer Architecture & System Software",
+        "comp_name": "C2",
+        "code_desc": "Semester 1",
+        "empname": "Madhu Singh",
+        "sectionIdCode": 29
+      },
+      {
+        "subject_master_id": 1442,
+        "comp_name_sl_no": 3,
+        "subject_code": "CA 103",
+        "subname": "Data Structures",
+        "comp_name": "C3",
+        "code_desc": "Semester 1",
+        "empname": "Dr.sujoy Das",
+        "sectionIdCode": 29
+      },
+      {
+        "subject_master_id": 1443,
+        "comp_name_sl_no": 4,
+        "subject_code": "CA 104",
+        "subname": "Operating System",
+        "comp_name": "C4",
+        "code_desc": "Semester 1",
+        "empname": "Madhu Singh",
+        "sectionIdCode": 29
+      },
+      {
+        "subject_master_id": 1444,
+        "comp_name_sl_no": 5,
+        "subject_code": "CA 105",
+        "subname": "C Programming",
+        "comp_name": "C5",
+        "code_desc": "Semester 1",
+        "empname": "Geetanjali Nenvani",
+        "sectionIdCode": 29
+      },
+      {
+        "subject_master_id": 190,
+        "comp_name_sl_no": 6,
+        "subject_code": "HUM 106 CA",
+        "subname": "Business Communication",
+        "comp_name": "C6",
+        "code_desc": "Semester 1",
+        "empname": "Anjuli Jain",
+        "sectionIdCode": 29
+      },
+      {
+        "subject_master_id": 1445,
+        "comp_name_sl_no": 7,
+        "subject_code": "CA 107",
+        "subname": "Web Development Lab- I",
+        "comp_name": "C7",
+        "code_desc": "Semester 1",
+        "empname": "Dr Sagar Choudhary ",
+        "sectionIdCode": 29
+      },
+      {
+        "subject_master_id": 1446,
+        "comp_name_sl_no": 8,
+        "subject_code": "CA 108",
+        "subname": "Programming Lab in C",
+        "comp_name": "C8",
+        "code_desc": "Semester 1",
+        "empname": "Geetanjali Nenvani",
+        "sectionIdCode": 29
+      }
+    ]
+  },
+  {
+    "reg_session": 2023,
+    "reg_semester_type_id_code": 3,
+    "current_status": "Confirmed",
+    "sgpa_cgpa_in_json": [
+      {
+        "program_master_id": 28,
+        "cgpa": "8.00",
+        "calculation_date": "May 30, 2024 10:46:42 AM"
+      }
+    ],
+    "creation_time": "2024-02-15T12:19:45.276Z",
+    "semester_term_no_id_code": 5,
+    "feesStatus": "Yes",
+    "feesAmount": "",
+    "credits": "26",
+    "semesterDetails1": "Semester 2",
+    "full_name": "Bhavishya Parmar",
+    "gender": "M",
+    "roll_no": "2320403127",
+    "curr_dept": 32,
+    "degree": "-",
+    "degree_name": "Master of Computer Applications",
+    "program_master_id": 28,
+    "depname": "Mathematics, Bioinformatics and Computer Applications",
+    "subjects": [
+      {
+        "subject_master_id": 1591,
+        "comp_name_sl_no": 1,
+        "subject_code": "MTH 201 CA",
+        "subname": "Linear Algebra",
+        "comp_name": "C1",
+        "code_desc": "Semester 2",
+        "empname": "Dr. Pushpendra Kumar",
+        "sectionIdCode": 29
+      },
+      {
+        "subject_master_id": 1448,
+        "comp_name_sl_no": 2,
+        "subject_code": "CA 202",
+        "subname": "Software Engineering",
+        "comp_name": "C2",
+        "code_desc": "Semester 2",
+        "empname": "Dr. Shweta Bhandari",
+        "sectionIdCode": 29
+      },
+      {
+        "subject_master_id": 1449,
+        "comp_name_sl_no": 3,
+        "subject_code": "CA 203",
+        "subname": "Computer Networks",
+        "comp_name": "C3",
+        "code_desc": "Semester 2",
+        "empname": "Dr. Jay Kumar Jain",
+        "sectionIdCode": 29
+      },
+      {
+        "subject_master_id": 1450,
+        "comp_name_sl_no": 4,
+        "subject_code": "CA 204",
+        "subname": "Database Management System",
+        "comp_name": "C4",
+        "code_desc": "Semester 2",
+        "empname": "Dr. Sanjay Sharma",
+        "sectionIdCode": 29
+      },
+      {
+        "subject_master_id": 1451,
+        "comp_name_sl_no": 5,
+        "subject_code": "CA 205",
+        "subname": "Object Oriented Design Using UML",
+        "comp_name": "C5",
+        "code_desc": "Semester 2",
+        "empname": "Dr.sujoy Das",
+        "sectionIdCode": 29
+      },
+      {
+        "subject_master_id": 1452,
+        "comp_name_sl_no": 6,
+        "subject_code": "CA 206",
+        "subname": "Python Programming",
+        "comp_name": "C6",
+        "code_desc": "Semester 2",
+        "empname": "Dheeraj Kumar Dixit",
+        "sectionIdCode": 29
+      },
+      {
+        "subject_master_id": 1453,
+        "comp_name_sl_no": 7,
+        "subject_code": "CA 207",
+        "subname": "Web Development Lab- II",
+        "comp_name": "C7",
+        "code_desc": "Semester 2",
+        "empname": "Dr. Jay Kumar Jain",
+        "sectionIdCode": 29
+      },
+      {
+        "subject_master_id": 1454,
+        "comp_name_sl_no": 8,
+        "subject_code": "CA 208",
+        "subname": "Programming Lab in Python",
+        "comp_name": "C8",
+        "code_desc": "Semester 2",
+        "empname": "Dheeraj Kumar Dixit",
+        "sectionIdCode": 29
+      }
+    ]
+  },
+  {
+    "reg_session": 2024,
+    "reg_semester_type_id_code": 2,
+    "current_status": "Confirmed",
+    "sgpa_cgpa_in_json": [
+      {
+        "program_master_id": 28,
+        "cgpa": "8.73",
+        "calculation_date": "Feb 13, 2025 10:29:12 AM"
+      }
+    ],
+    "creation_time": "2024-12-13T12:13:52.874Z",
+    "semester_term_no_id_code": 6,
+    "feesStatus": "Yes",
+    "feesAmount": "",
+    "credits": "26",
+    "semesterDetails1": "Semester 3",
+    "full_name": "Bhavishya Parmar",
+    "gender": "M",
+    "roll_no": "2320403127",
+    "curr_dept": 32,
+    "degree": "-",
+    "degree_name": "Master of Computer Applications",
+    "program_master_id": 28,
+    "depname": "Mathematics, Bioinformatics and Computer Applications",
+    "subjects": [
+      {
+        "subject_master_id": 1456,
+        "comp_name_sl_no": 2,
+        "subject_code": "CA 302",
+        "subname": "Software Architecture",
+        "comp_name": "C2",
+        "code_desc": "Semester 3",
+        "empname": "Dr. Namita Srivastava",
+        "sectionIdCode": 61
+      },
+      {
+        "subject_master_id": 1462,
+        "comp_name_sl_no": 8,
+        "subject_code": "CA 308",
+        "subname": "Minor Project - I",
+        "comp_name": "C8",
+        "code_desc": "Semester 3",
+        "empname": "Dr. Jitendra Kumar",
+        "sectionIdCode": 61
+      },
+      {
+        "subject_master_id": 1461,
+        "comp_name_sl_no": 7,
+        "subject_code": "CA 307",
+        "subname": "Programming Lab in JAVA",
+        "comp_name": "C7",
+        "code_desc": "Semester 3",
+        "empname": "Dr. Ghanshyam Singh Thakur",
+        "sectionIdCode": 61
+      },
+      {
+        "subject_master_id": 1592,
+        "comp_name_sl_no": 1,
+        "subject_code": "MTH 301 CA",
+        "subname": "Probability & Applied Statistics",
+        "comp_name": "C1",
+        "code_desc": "Semester 3",
+        "empname": "Dr. Chandan Kumar Verma",
+        "sectionIdCode": 61
+      },
+      {
+        "subject_master_id": 1457,
+        "comp_name_sl_no": 3,
+        "subject_code": "CA 303",
+        "subname": "Analysis & Design of Algorithm",
+        "comp_name": "C3",
+        "code_desc": "Semester 3",
+        "empname": "Dr. Amit Bhagat",
+        "sectionIdCode": 61
+      },
+      {
+        "subject_master_id": 1459,
+        "comp_name_sl_no": 5,
+        "subject_code": "CA 305",
+        "subname": "Enterprise Resource Planning and Supply Chain Management",
+        "comp_name": "C5",
+        "code_desc": "Semester 3",
+        "empname": "Dr. Jay Kumar Jain",
+        "sectionIdCode": 61
+      },
+      {
+        "subject_master_id": 1460,
+        "comp_name_sl_no": 6,
+        "subject_code": "CA 306",
+        "subname": "Development and Operational Tools (Devops)",
+        "comp_name": "C6",
+        "code_desc": "Semester 3",
+        "empname": "Dr.sujoy Das",
+        "sectionIdCode": 61
+      },
+      {
+        "subject_master_id": 1458,
+        "comp_name_sl_no": 4,
+        "subject_code": "CA 304",
+        "subname": "Application Development using JAVA",
+        "comp_name": "C4",
+        "code_desc": "Semester 3",
+        "empname": "Dr. Ghanshyam Singh Thakur",
+        "sectionIdCode": 61
+      }
+    ]
+  },
+  {
+    "reg_session": 2024,
+    "reg_semester_type_id_code": 3,
+    "current_status": "Confirmed",
+    "sgpa_cgpa_in_json": [
+      {
+        "program_master_id": 28,
+        "cgpa": "9.31",
+        "calculation_date": "Jun 10, 2025 5:21:22 PM"
+      }
+    ],
+    "creation_time": "2025-04-25T13:42:04.341Z",
+    "semester_term_no_id_code": 7,
+    "feesStatus": "Yes",
+    "feesAmount": "",
+    "credits": "26",
+    "semesterDetails1": "Semester 4",
+    "full_name": "Bhavishya Parmar",
+    "gender": "M",
+    "roll_no": "2320403127",
+    "curr_dept": 32,
+    "degree": "-",
+    "degree_name": "Master of Computer Applications",
+    "program_master_id": 28,
+    "depname": "Mathematics, Bioinformatics and Computer Applications",
+    "subjects": [
+      {
+        "subject_master_id": 1593,
+        "comp_name_sl_no": 1,
+        "subject_code": "MTH 401 CA",
+        "subname": "Optimization Methods for Analytics",
+        "comp_name": "C1",
+        "code_desc": "Semester 4",
+        "empname": "Dr. Chandan Kumar Verma",
+        "sectionIdCode": 100
+      },
+      {
+        "subject_master_id": 1464,
+        "comp_name_sl_no": 2,
+        "subject_code": "CA 402",
+        "subname": "Data Warehousing and Data Mining",
+        "comp_name": "C2",
+        "code_desc": "Semester 4",
+        "empname": "Dr. Ghanshyam Singh Thakur",
+        "sectionIdCode": 100
+      },
+      {
+        "subject_master_id": 1465,
+        "comp_name_sl_no": 3,
+        "subject_code": "CA 403",
+        "subname": "Artificial Intelligence & Neural Network",
+        "comp_name": "C3",
+        "code_desc": "Semester 4",
+        "empname": "Dr. Jitendra Kumar",
+        "sectionIdCode": 100
+      },
+      {
+        "subject_master_id": 1466,
+        "comp_name_sl_no": 4,
+        "subject_code": "CA 404",
+        "subname": "Service Management",
+        "comp_name": "C4",
+        "code_desc": "Semester 4",
+        "empname": "Dr. Bikrant Kesari",
+        "sectionIdCode": 100
+      },
+      {
+        "subject_master_id": 1467,
+        "comp_name_sl_no": 5,
+        "subject_code": "CA 405",
+        "subname": "Data Science",
+        "comp_name": "C5",
+        "code_desc": "Semester 4",
+        "empname": "Dr Sagar Choudhary ",
+        "sectionIdCode": 100
+      },
+      {
+        "subject_master_id": 1468,
+        "comp_name_sl_no": 6,
+        "subject_code": "CA 406",
+        "subname": "Minor Project - II",
+        "comp_name": "C6",
+        "code_desc": "Semester 4",
+        "empname": "Dr. Ghanshyam Singh Thakur",
+        "sectionIdCode": 100
+      },
+      {
+        "subject_master_id": 1474,
+        "comp_name_sl_no": 8,
+        "subject_code": "CA 706",
+        "subname": "Internet of Things Lab",
+        "comp_name": "Elective Lab- I",
+        "code_desc": "Semester 4",
+        "empname": "Dr. S. Devidas",
+        "sectionIdCode": 100
+      },
+      {
+        "subject_master_id": 1469,
+        "comp_name_sl_no": 7,
+        "subject_code": "CA 701",
+        "subname": "Internet of Things",
+        "comp_name": "Elective I",
+        "code_desc": "Semester 4",
+        "empname": "Dr. S. Devidas",
+        "sectionIdCode": 100
+      }
+    ]
+  }
+]
