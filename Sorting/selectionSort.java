@@ -2,12 +2,9 @@
 // and swap it value with the 0th index and so on until the array is sorted
 // Time Complexity  wrost/average/best case - O(n^2) 
 
-
-
-
 public class selectionSort {
     public static void main(String[] args) {
-        int arr[] = {3,2,5,7,1,4,9,0,4};
+        int arr[] = { 3, 2, 5, 7, 1, 4, 9, 0, 4 };
         int min = 0;
 
         for (int i = 0; i < arr.length; i++) {
@@ -15,10 +12,9 @@ public class selectionSort {
         }
         System.out.println();
 
-
-        for(int i=0;i<arr.length;i++){
-            for(int j = i+1;j<arr.length;j++){
-                if(arr[j] < arr[min] ){
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = i + 1; j < arr.length; j++) {
+                if (arr[j] < arr[min]) {
                     min = j;
                 }
             }
