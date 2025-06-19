@@ -117,7 +117,7 @@ public class Pattern {
   public static void pattern8(int r) {
     for (int i = 1; i <= r; i++) {
       for (int j = i; j <= r; j++) {
-        System.out.print("   "); 
+        System.out.print("   ");
       }
       System.out.println(" * ");
     }
