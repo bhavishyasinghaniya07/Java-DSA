@@ -32,7 +32,8 @@ public class Sort {
     }
   }
 
-  // i pr jo element h use uthao or use apni sahi jagah pr insert krte jao bs
+  // array ko 2 parts m divide kro 0 se 0 tk sorted , or 1 se n-1 tk unsorted
+  // ab ek ek element unsorted m se utha k sorted m sahi jagah pr rakhte jao
 
   public static void insertionSort(int[] nums) {
 
@@ -101,6 +102,42 @@ public class Sort {
 
   }
 
+  // Quick sort - sabse pehle partition element nikal k use uski sahi jagah pr fix
+  // kr do , like mid element in merge sort , fir sub problems k liye recursion
+  // call kr do
+
+  public static int partion(int nums[], int low, int high) {
+    int i = low;
+    int j = high;
+    int pivot = nums[low];
+
+    while (i < j) {
+      while (i < high && nums[i] <= pivot)
+        i++;
+      while (j > low && nums[j] >= pivot)
+        j--;
+      if (i < j) {
+        int temp = nums[j];
+        nums[j] = nums[i];
+        nums[i] = temp;
+      }
+    }
+    int temp = nums[j];
+    nums[j] = nums[low];
+    nums[low] = temp;
+
+    return j;
+  }
+
+  public static void quickSort(int nums[], int low, int high) {
+    if (low >= high)
+      return;
+
+    int pi = partion(nums, low, high);
+    quickSort(nums, low, pi - 1);
+    quickSort(nums, pi + 1, high);
+  }
+
   // Main method ->
 
   public static void main(String[] args) {
@@ -109,10 +146,11 @@ public class Sort {
     // selectionSort(nums);
     // bubbleSort(nums);
     // insertionSort(nums);
-    mergeSort(nums, 0, nums.length - 1);
-
+    // mergeSort(nums, 0, nums.length - 1);
+    quickSort(nums, 0, nums.length - 1);
     for (int i = 0; i < nums.length; i++) {
       System.out.print(nums[i] + " ");
     }
   }
+
 }
